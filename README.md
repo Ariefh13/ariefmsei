@@ -1,2 +1,2 @@
-# ariefmsei
- resume
+# bozcani.github.io
+My professional webpage
